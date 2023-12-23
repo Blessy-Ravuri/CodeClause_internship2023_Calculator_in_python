@@ -1,2 +1,3 @@
-# CodeClause_internship2023_Calculator_in_python
-This is a simple calculator program in python language
+# Pythoncalculator
+This is a simple python Calculator ,Using Only Simple python programing.
+
